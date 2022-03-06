@@ -1,0 +1,13 @@
+Icon
+*.Rhistory
+error_model/figs/*
+!error_model/figs/.gitkeep
+error_model/simulated.files.pumping/*
+error_model/simulated.files.outflows/*
+!error_model/simulated.files.pumping/.gitkeep
+!error_model/simulated.files.outflows/.gitkeep
+
+
+error_model/Final*.csv
+
+*.DS_Store
