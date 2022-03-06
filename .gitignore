@@ -6,8 +6,19 @@ error_model/simulated.files.pumping/*
 error_model/simulated.files.outflows/*
 !error_model/simulated.files.pumping/.gitkeep
 !error_model/simulated.files.outflows/.gitkeep
-
-
 error_model/Final*.csv
 
 *.DS_Store
+*.pyc
+__pycache__/
+sobol_analysis/ensemble-simulations-flood/
+sobol_analysis/ensemble-simulations-pumping/
+!sobol_analysis/ensemble-simulations-flood/.gitkeep
+!sobol_analysis/ensemble-simulations-pumping/.gitkeep
+sobol_analysis/figs/future_ranges/
+!sobol_analysis/figs/future_ranges/.gitkeep
+sobol_analysis/figs/sobol/
+!sobol_analysis/figs/sobol/.gitkeep
+sobol_analysis/*.csv
+!sobol_analysis/obj_historical.csv
+!sobol_analysis/sim_historical.csv
