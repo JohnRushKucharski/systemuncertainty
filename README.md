@@ -2,6 +2,8 @@
 
 This repository provide the code and data needed to reproduce the _Uncertainty decomposition to understand the influence of water systems model error in climate vulnerability assessments_ paper results.
 
+[![DOI](https://zenodo.org/badge/466567112.svg)](https://zenodo.org/badge/latestdoi/466567112)
+
 ## Steps to reproduce the papers results.
 1. Run ‘error_model/delta_outflow_error_model.R’
 2. Run ‘error_model/‘delta_pumping_error_model.R’  
